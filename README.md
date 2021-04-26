@@ -2,6 +2,8 @@
  
  django-react-fullstack-FRONTEND -> https://github.com/asb404/django-react-fullstack-frontEnd-
  
+ Developed using Python Django,ReactJs,RestApi,MySql
+ 
  
  
  
